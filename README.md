@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 📊 Las stats   
 
-[![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-geotec&count_private=true&show_icons=true&theme=buefy)](https://github.com/paupradel)
+[![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-geotec&count_private=true&show_icons=true&theme=buefy)](https://github.com/andres-geotec)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-geotec)](https://github.com/andres-geotec)
